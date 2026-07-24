@@ -10,9 +10,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=linoshuke&show_icons=true&theme=radical&hide_border=false&count_private=true)
+![GitHub Stats](https://github-readme-stats-nine-tau.vercel.app/api?username=linoshuke&show_icons=true&theme=radical&hide_border=false&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linoshuke&layout=compact&theme=radical&hide_border=false)
+![Top Languages](https://github-readme-stats-nine-tau.vercel.app/api/top-langs/?username=linoshuke&layout=compact&theme=radical&hide_border=false)
 
 </div>
 
