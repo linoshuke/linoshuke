@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=14&duration=4000&pause=1500&color=94A3B8&center=true&vCenter=true&width=500&lines=Dede+Ichsan+R+-+Software+Engineer;Based+in+East+Java;Student+at+EEPIS+-+Surabaya+City" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=800&size=18&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=550&lines=Dede+Ichsan+R+-+Software+Engineer;Based+in+East+Java;Student+at+EEPIS+-+Surabaya+City" alt="Typing SVG" />
 </a>
 
 </div>
@@ -15,8 +15,6 @@
 </div>
 
 <br/>
-
-
 
 <div align="center">
 
