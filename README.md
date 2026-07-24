@@ -1,8 +1,15 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=800&size=18&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=550&lines=Dede+Ichsan+R+-+Software+Engineer;Based+in+East+Java;Student+at+Electronic+Engineering+Polytechnic+Institute+of+Surabaya+(EEPIS);Surabaya+City" alt="Typing SVG" />
-</a>
+
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Dira+%F0%9F%91%8B;Game+Developer;Building+things+that+scale." alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=400&size=14&duration=4000&pause=1500&color=94A3B8&center=true&vCenter=true&width=460&lines=Dede+Ichsan+R+%E2%80%94+Game+Developer;Based+in+Surabaya%2C+Est+Java+%F0%9F%87%AE%F0%9F%87%A9;Student+%40+EEPIS+Surabaya+City" alt="Subtitle" />
+</p>
+
+<br/>
 
 </div>
 
