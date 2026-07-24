@@ -18,15 +18,7 @@
 
 <br/>
 
-<div align="center">
 
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=linoshuke&theme=radical&no-frame=false&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
 
 <div align="center">
 
