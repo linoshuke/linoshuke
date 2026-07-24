@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=400&size=14&duration=4000&pause=1500&color=94A3B8&center=true&vCenter=true&width=460&lines=Dede+Ichsan+R+%E2%80%94+Game+Developer;Based+in+Surabaya%2C+Est+Java+%F0%9F%87%AE%F0%9F%87%A9;Student+%40+EEPIS+Surabaya+City" alt="Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=400&size=14&duration=4000&pause=1500&color=94A3B8&center=true&vCenter=true&width=460&lines=Dede+Ichsan+R+%E2%80%94;Based+in+Surabaya%2C+Est+Java+%F0%9F%87%AE%F0%9F%87%A9;Student+%40+Electronic+Engineering+Polytechnic+Institute+of+Surabaya+(EEPIS).;Surabaya+City" alt="Subtitle" />
 </p>
 
 <br/>
