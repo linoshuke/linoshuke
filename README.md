@@ -32,7 +32,6 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=linoshuke&theme=redical&hide_border=false)
 
 </div>
-
 <br/>
 
 <div align="center">
