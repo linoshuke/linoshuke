@@ -28,7 +28,7 @@
 
 ### 📊 GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=linoshuke&theme=radical&hide_border=false&v=2)
+![GitHub Streak](https://github-streak-stats.vercel.app?user=linoshuke&theme=radical&hide_border=false)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=linoshuke&theme=redical&hide_border=false)
 
