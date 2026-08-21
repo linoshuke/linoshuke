@@ -20,7 +20,6 @@
 ![GitHub Stats](https://github-readme-stats-nine-tau.vercel.app/api?username=linoshuke&show_icons=true&theme=radical&hide_border=false&count_private=true)
 
 </div>
-
 <br/>
 
 <div align="center">
